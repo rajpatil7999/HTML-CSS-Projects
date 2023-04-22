@@ -1,0 +1,27 @@
+#section7 {
+    text-align: center;
+}
+
+#sec7heading {
+    color: #8b8b99;
+    font-size: 44px;
+    font-weight: 400;
+    margin: 30px 0px;
+    
+}
+
+#myvid {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 20px;
+    
+
+}
+#hr{
+    width: 96px;
+    margin: auto;
+    background-color: #e4b476;
+    height: 1px;
+    margin-bottom: 36px;
+}

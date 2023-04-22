@@ -1,0 +1,63 @@
+#section5{
+    width: 100%;
+    height: fit-content;
+}
+
+#leftimg{
+    width: 100%;
+    border-radius: 0%;
+}
+#rightimg{
+    width: 100%;
+}
+.firstBCImg{
+    
+    width: 67%;
+    display: inline-block;
+    margin: 0;
+    float: left;
+}
+
+.secondBackground{
+    width: 33%;
+    height: 675px;
+    background-image: url('https://edyoda.s3.ap-south-1.amazonaws.com/public/strawberry-white.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    text-align: center;
+}
+.section4sectin2{
+    margin-top: 100px;
+    margin-left: 145px;
+    width: 55%;
+    text-align: left;
+    /* margin: auto; */
+}
+#section5heading{
+    
+    font-size: 44px;
+    font-weight: 600;
+}
+#section5desc{
+    text-align: left;
+    line-height: 1.7;
+    color: #8b8b99;
+}
+/* .sec7head{
+    color: black;
+} */
+#email{
+    padding: 20px;
+    border-radius: 5px;
+    border: 0px;
+}
+#subbtn{
+    text-transform: uppercase;
+    border: 0px;
+    padding: 18px 35px;
+    color: white;
+    background-color: #f69dad;
+    border-radius: 5px;
+    font-weight: 600;
+}
